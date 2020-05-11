@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\brunodba\\php-classes\\src"
+            "Hcode\\": "vendor\\brunodba\\php-classes\\src"
         }
     }
 }
